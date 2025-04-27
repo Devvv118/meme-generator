@@ -1,9 +1,3 @@
-
----
-
-### 📄 **Meme Generator - README.md**
-
-```markdown
 # Meme Generator 🖼️
 
 A basic meme generator built with React. Browse random memes and add your own custom top and bottom text.
